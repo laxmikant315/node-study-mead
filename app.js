@@ -11,7 +11,7 @@ axios.get('/posts').then((result)=>{
 console.log(result.data);
 }).catch( (e) =>{
 
-    console.log('Error:::=1>',e);
+    console.log('Error1:::=1>',e);
 
 
 });
